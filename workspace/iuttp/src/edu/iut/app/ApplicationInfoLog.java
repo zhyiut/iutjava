@@ -12,5 +12,5 @@ public class ApplicationInfoLog extends AbstractApplicationLog {
 		this.message = message;
         super.fireMessage("[INFO]", this.message);
 	}
-
+	
 }
